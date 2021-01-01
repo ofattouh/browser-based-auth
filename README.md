@@ -1,0 +1,1 @@
+Expo app login to Spotify API
